@@ -1,0 +1,7 @@
+<manifest>
+  <remote name="sdsmtuav" fetch="https://github.com/SDSMT-UAV/"
+  <default revision="refs/heads/master" remote="sdsmtuav" sync-j="4" />
+
+  <project name="AndroidApplication.git" remote="AndroidApplication" path="Android/Application">
+  <project name="AndroidLibraries.git remote="AndroidLibraries" path="Android/Libraries">
+</manifest>
